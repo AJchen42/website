@@ -1,0 +1,12 @@
+[05-Jan-2020 23:21:26 UTC] PHP Warning:  strpos(): Empty needle in /home3/addisou6/public_html/wp-includes/functions.php on line 4360
+[05-Jan-2020 23:21:26 UTC] PHP Warning:  strpos(): Empty needle in /home3/addisou6/public_html/wp-includes/functions.php on line 4360
+[05-Jan-2020 23:21:27 UTC] mojo_plugin_activated
+[05-Jan-2020 23:51:18 UTC] PHP Warning:  require(/home3/addisou6/public_html/wp-blog-header.php): failed to open stream: No such file or directory in /home3/addisou6/public_html/index.php on line 17
+[05-Jan-2020 23:51:18 UTC] PHP Warning:  require(/home3/addisou6/public_html/wp-blog-header.php): failed to open stream: No such file or directory in /home3/addisou6/public_html/index.php on line 17
+[05-Jan-2020 23:51:18 UTC] PHP Fatal error:  require(): Failed opening required '/home3/addisou6/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/addisou6/public_html/index.php on line 17
+[05-Jan-2020 23:51:21 UTC] PHP Warning:  require(/home3/addisou6/public_html/wp-blog-header.php): failed to open stream: No such file or directory in /home3/addisou6/public_html/index.php on line 17
+[05-Jan-2020 23:51:21 UTC] PHP Warning:  require(/home3/addisou6/public_html/wp-blog-header.php): failed to open stream: No such file or directory in /home3/addisou6/public_html/index.php on line 17
+[05-Jan-2020 23:51:21 UTC] PHP Fatal error:  require(): Failed opening required '/home3/addisou6/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/addisou6/public_html/index.php on line 17
+[05-Jan-2020 23:53:53 UTC] PHP Warning:  require(/home3/addisou6/public_html/wp-blog-header.php): failed to open stream: No such file or directory in /home3/addisou6/public_html/index.php on line 17
+[05-Jan-2020 23:53:53 UTC] PHP Warning:  require(/home3/addisou6/public_html/wp-blog-header.php): failed to open stream: No such file or directory in /home3/addisou6/public_html/index.php on line 17
+[05-Jan-2020 23:53:53 UTC] PHP Fatal error:  require(): Failed opening required '/home3/addisou6/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/addisou6/public_html/index.php on line 17
